@@ -1,12 +1,6 @@
-.form-section{
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
 
-}
-
-input[type=text], textarea {
-    width: 100%;
+input , textarea {
+    width: 80%;
     padding: 22px 20px;
     margin: 10px 0;
     border: 1px solid #ccc;
@@ -15,8 +9,8 @@ input[type=text], textarea {
 }
 
 input[type=submit] {
-    width: 100%;
-    background-color: green;
+    width: 80%;
+    background-color: darkblue;
     color: white;
     padding: 14px 40px;
     margin: 10px 0;
@@ -26,9 +20,8 @@ input[type=submit] {
 }
 
 
-
-
-
+div{
+    text-align: center;
 
 
 
